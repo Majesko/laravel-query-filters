@@ -1,0 +1,21 @@
+{
+    "name": "apins/laravel-query-filters",
+    "description": "Query filters",
+    "authors": [
+        {
+            "name": "Aethalyste",
+            "email": "benefactor09@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*",
+        "laravelbook/ardent": "2.4.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Apins\\QueryFilters": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
