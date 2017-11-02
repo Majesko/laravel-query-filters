@@ -1,6 +1,6 @@
 <?php
 
-namespace Apins\QueryFilters;
+namespace Apins\QueryFilters\Entities;
 
 class MultiSelectFilter extends SelectFilter {
 	protected static function getType() {
