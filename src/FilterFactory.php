@@ -2,6 +2,10 @@
 
 namespace Apins\QueryFilters;
 
+use Apins\QueryFilters\Entities\DateFilter;
+use Apins\QueryFilters\Entities\MultiSelectFilter;
+use Apins\QueryFilters\Entities\SelectFilter;
+use Apins\QueryFilters\Entities\StringFilter;
 use Carbon\Carbon;
 
 class FilterFactory {
